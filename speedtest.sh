@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Run librespeed-cli and capture the result
 speedtest_result=$(librespeed-cli)
